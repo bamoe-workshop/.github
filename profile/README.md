@@ -11,8 +11,8 @@ This workshop includes the following repositories:
 - [Process Automation Labs](https://github.com/bamoe-workshop/process-automation-labs) - A set of labs used to learn process automation.
 - [Student Documentation](https://github.com/bamoe-workshop/student-documents) - Student version of the workshop lab guides and presentations.
 - [Student Labs](https://github.com/bamoe-workshop/student-labs) - Student version of the workshop labs.
-- [Instructor Documentation](https://github.com/bamoe-workshop/instructor-documents) - Instructor versin of the workshop lab guides and presentations.
 - [Final Examination](https://github.com/bamoe-workshop/final-examination) - Final workshop examination.
+- [Instructor Documentation](https://github.com/bamoe-workshop/instructor-documents) - Instructor versin of the workshop lab guides and presentations.
 
 ## Additional Information (*Appendicies*)
 This repository is focused on business automation using [**IBM Business Automation Manager Open Editions**](https://www.ibm.com/docs/en/ibamoe/9.2.x) products, specifically the IBM build of [**Kogito**](https://kogito.kie.org/) known as **IBM Decision Manager Open Edition (DMOE)** and **IBM Process Automation Manager Open Edition (PAMOE)**, leveraging [**Quarkus**](https://quarkus.io/) or [**Spring Boot** _(currently for Decisions only)_](https://spring.io/) as the assoicated container runtime.  The following online documentation is available in order to learn various aspects of these products and frameworks:
