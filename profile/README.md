@@ -1,4 +1,4 @@
-# IBM Business Automation Manager Open Editions (IBM BAMOE) Workshop
+# IBM Business Automation Manager Open Editions (IBM BAMOE) Workshop (WB420G)
 Workshop content for instructors and students.
 
 ## Overview
