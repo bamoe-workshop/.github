@@ -4,15 +4,38 @@ Workshop content for instructors and students.
 ## Overview
 This workshop includes the following repositories:
 
-- [BAMOE Setup](https://github.com/bamoe-workshop/bamoe-setup) - A set of instructions on how to setup IBM BAMOE.
-- [BAMOE Maven](https://github.com/bamoe-workshop/bamoe-maven) - A set of custom Maven project generators for IBM BAMOE.
-- [BAMOE Examples](https://github.com/bamoe-workshop/bamoe-examples) - IBM BAMOE product examples.
-- [Decision Automation Labs](https://github.com/bamoe-workshop/decision-automation-labs) - A set of labs used to learn decision 
-- [Process Automation Labs](https://github.com/bamoe-workshop/process-automation-labs) - A set of labs used to learn process automation.
 - [Student Documentation](https://github.com/bamoe-workshop/student-documents) - Student version of the workshop lab guides and presentations.
 - [Student Labs](https://github.com/bamoe-workshop/student-labs) - Student version of the workshop labs.
 - [Final Examination](https://github.com/bamoe-workshop/final-examination) - Final workshop examination.
+- [Instructor Labs](https://github.com/bamoe-workshop/instructor-labs) - A set of pre-built labs, used for demonstration and guidance through student labs.
 - [Instructor Documentation](https://github.com/bamoe-workshop/instructor-documents) - Instructor versin of the workshop lab guides and presentations.
+- [BAMOE Setup](https://github.com/bamoe-workshop/bamoe-setup) - A set of instructions on how to setup IBM BAMOE.
+- [BAMOE Maven](https://github.com/bamoe-workshop/bamoe-maven) - A set of custom Maven project generators for IBM BAMOE.
+- [BAMOE Examples](https://github.com/bamoe-workshop/bamoe-examples) - IBM BAMOE product examples.
+
+## Student Virtual Machine Accounts
+Each student has a choice of underlying operating system for doing IBM BAMOE development, either **Linux** or **Windows**:
+
+  - **Linux Virtual Machine**
+    - Username: ibmuser
+    - Password: Passw0rd
+    - Root: 1l0veibmrh
+    - OpenShift Username: developer
+    - OpenShift Password: developer
+    - OpenShift Admin Username: kubeadmin
+    - OpenShift Admin Password: XEKT9-uJ4cM-9Hezi-IeWRn
+
+  - **Windows Virtual Machine**
+    - Username: ibmuser
+    - Password: Passw0rd
+    - Admin Username: admin
+    - Admin Password: IBMDem0s
+    - OpenShift Username: developer
+    - OpenShift Password: developer
+    - OpenShift Admin Username: kubeadmin
+    - OpenShift Admin Password: ebCiE-wArgg-JsMsU-yH5bU
+
+  - **OpenShift Image Container Registry URL**: default-route-openshift-image-registry.apps.ocp.ibm.edu
 
 ## Additional Information (*Appendicies*)
 This repository is focused on business automation using [**IBM Business Automation Manager Open Editions**](https://www.ibm.com/docs/en/ibamoe/9.2.x) products, specifically the IBM build of [**Kogito**](https://kogito.kie.org/) known as **IBM Decision Manager Open Edition (DMOE)** and **IBM Process Automation Manager Open Edition (PAMOE)**, leveraging [**Quarkus**](https://quarkus.io/) or [**Spring Boot** _(currently for Decisions only)_](https://spring.io/) as the assoicated container runtime.  The following online documentation is available in order to learn various aspects of these products and frameworks:
