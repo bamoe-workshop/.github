@@ -35,7 +35,7 @@ Each student has a choice of underlying operating system for doing IBM BAMOE dev
     - OpenShift Admin Username: kubeadmin
     - OpenShift Admin Password: ebCiE-wArgg-JsMsU-yH5bU
 
-  - **OpenShift Image Container Registry URL**: default-route-openshift-image-registry.apps.ocp.ibm.edu
+  - **OpenShift Image Container Registry URL**: default-route-openshift-image-registry.apps-crc.testing
 
 ## Additional Information (*Appendicies*)
 This repository is focused on business automation using [**IBM Business Automation Manager Open Editions**](https://www.ibm.com/docs/en/ibamoe/9.2.x) products, specifically the IBM build of [**Kogito**](https://kogito.kie.org/) known as **IBM Decision Manager Open Edition (DMOE)** and **IBM Process Automation Manager Open Edition (PAMOE)**, leveraging [**Quarkus**](https://quarkus.io/) or [**Spring Boot** _(currently for Decisions only)_](https://spring.io/) as the assoicated container runtime.  The following online documentation is available in order to learn various aspects of these products and frameworks:
