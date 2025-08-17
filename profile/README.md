@@ -6,7 +6,7 @@ This workshop includes the following repositories:
 
 - [Student Documentation](https://github.com/bamoe-workshop/student-documents) - Student version of the workshop lab guides and presentations.
 - [Student Labs](https://github.com/bamoe-workshop/student-labs) - Student version of the workshop labs.
-- [Student Final Examination](https://github.com/bamoe-workshop/student-examination) - Final student workshop examination.
+- [Student Final Examination](https://github.com/bamoe-workshop/student-examination) - Final student eworkshop examination.
 - [Instructor Labs](https://github.com/bamoe-workshop/instructor-labs) - A set of pre-built labs, used for demonstration and guidance through student labs.
 - [Instructor Documentation](https://github.com/bamoe-workshop/instructor-documents) - Instructor versin of the workshop lab guides and presentations.
 - [BAMOE Setup](https://github.com/bamoe-workshop/bamoe-setup) - A set of instructions on how to setup IBM BAMOE.
@@ -33,7 +33,7 @@ Each student has a choice of underlying operating system for doing IBM BAMOE dev
     - OpenShift Username: developer
     - OpenShift Password: developer
     - OpenShift Admin Username: kubeadmin
-    - OpenShift Admin Password: ebCiE-wArgg-JsMsU-yH5bU
+    - OpenShift Admin Password: fgFe9-jndnG-3GVtQ-hbNyM
 
   - **OpenShift Image Container Registry URL**: default-route-openshift-image-registry.apps-crc.testing
 
