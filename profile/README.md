@@ -11,8 +11,8 @@ This workshop includes the following repositories:
 - [Student Final Examination](https://github.com/bamoe-workshop/student-examination) - Final student eworkshop examination.
 - [Instructor Labs](https://github.com/bamoe-workshop/instructor-labs) - A set of pre-built labs, used for demonstration and guidance through student labs.
 - [Instructor Documentation](https://github.com/bamoe-workshop/instructor-documents) - Instructor versin of the workshop lab guides and presentations.
-- [BAMOE Setup](https://github.com/bamoe-workshop/bamoe-setup) - A set of instructions on how to setup IBM BAMOE.
-- [BAMOE Maven](https://github.com/bamoe-workshop/bamoe-maven) - A set of custom Maven project generators for IBM BAMOE.
+- [BAMOE Setup](https://github.com/bamoe/bamoe-setup) - A set of instructions on how to setup IBM BAMOE.
+- [BAMOE Maven](https://github.com/bamoe/bamoe-maven) - A set of custom Maven project generators for IBM BAMOE.
 - [BAMOE Examples](https://github.com/bamoe-workshop/bamoe-examples) - IBM BAMOE product examples.
 
 ## Student Virtual Machine Accounts
