@@ -1,5 +1,7 @@
 # IBM Business Automation Manager Open Editions Workshop (WB420G)
-Workshop content for instructors and students.
+This workshop is inteded to be the source for the official IBM BAMOE certification course.  This certification course is intended to be made available as an instructor-lead, paid training course, usually delivered by IBM Expert Labs or by IBM business partners.
+
+This repository contains the workshop content for instructors and students, as well as instructions on how to configure the lab execution envvironment, based on Red Hat Linux and OpenShift.
 
 ![W420G BAMOE Workshop](../doc/under-construction.png)
 
