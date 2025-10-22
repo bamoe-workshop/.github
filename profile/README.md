@@ -1,7 +1,7 @@
 # IBM Business Automation Manager Open Editions Workshop (WB420G)
 Workshop content for instructors and students.
 
-![W420G BAMOE Workshop](../doc/W420G-bamoe-workshop.png)
+![W420G BAMOE Workshop](../doc/under-construction.png)
 
 ## Overview
 This workshop includes the following repositories:
