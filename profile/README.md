@@ -18,8 +18,6 @@ This workshop includes the following repositories:
 - [BAMOE Examples](https://github.com/bamoe-workshop/bamoe-examples) - IBM BAMOE product examples.
 
 ## Student Virtual Machine Accounts
-Each student has a choice of underlying operating system for doing IBM BAMOE development, either **Linux** or **Windows**:
-
   - **Linux Virtual Machine**
     - Username: ibmuser
     - Password: Passw0rd
@@ -28,17 +26,6 @@ Each student has a choice of underlying operating system for doing IBM BAMOE dev
     - OpenShift Password: developer
     - OpenShift Admin Username: kubeadmin
     - OpenShift Admin Password: XEKT9-uJ4cM-9Hezi-IeWRn
-
-  - **Windows Virtual Machine**
-    - Username: ibmuser
-    - Password: Passw0rd
-    - Admin Username: admin
-    - Admin Password: IBMDem0s
-    - OpenShift Username: developer
-    - OpenShift Password: developer
-    - OpenShift Admin Username: kubeadmin
-    - OpenShift Admin Password: fgFe9-jndnG-3GVtQ-hbNyM
-
   - **OpenShift Image Container Registry URL**: default-route-openshift-image-registry.apps-crc.testing
 
 ## Additional Information (*Appendicies*)
